@@ -21,14 +21,6 @@ export default function Home() {
           </Button> */}
         </div>
       </div>
-      <p className="mb-3">
-        Want to build this app yourself? Head over to{" "}
-        <a className="text-blue-500" href="https://codewithbeto.dev">
-          codewithbeto.dev
-        </a>{" "}
-        and check out our React with TypeScript course. <br />
-        Oh, and grab our Early Bird deal while youre at it! 🐤
-      </p>
       <Dashboard />
       <div className="my-3 min-w-fit flex flex-col items-end">
         <h3 className="hidden lg:flex font-bold mb-2">Shortcuts</h3>
