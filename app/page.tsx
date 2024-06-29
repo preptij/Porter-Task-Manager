@@ -11,11 +11,6 @@ export default function Home() {
           Porter - Lightweight Task Manager
         </h1>
         <div className="flex items-center gap-3">
-          <Button asChild size={"icon"}>
-            <a href="https://github.com/betomoedano/Porter-Task-Manager.git">
-              <GitHubLogoIcon />
-            </a>
-          </Button>
           {/* <Button disabled>
             Column <PlusIcon className="ml-1" />
           </Button> */}
